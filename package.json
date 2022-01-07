@@ -1,6 +1,6 @@
 {
   "name": "framework-arduinoteensy-rsr",
-  "version": "1.156.0",
+  "version": "1.156.1",
   "description": "Arduino Wiring-based Framework for Teensy boards (with new custom usb device options)",
   "keywords": [
     "framework",

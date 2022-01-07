@@ -1,7 +1,7 @@
 [submodule "cores"]
 	path = cores
 	url = https://github.com/red-sand-robot/teensy-cores
-	branch = main
+	branch = dev
 [submodule "libraries/I2CDev-ArduinoCore"]
 	path = libraries/I2CDev-ArduinoCore
 	url = https://github.com/red-sand-robot/I2CDev-ArduinoCore
