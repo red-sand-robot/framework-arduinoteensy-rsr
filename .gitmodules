@@ -1,0 +1,20 @@
+[submodule "cores"]
+	path = cores
+	url = https://github.com/red-sand-robot/teensy-cores
+	branch = main
+[submodule "libraries/I2CDev-ArduinoCore"]
+	path = libraries/I2CDev-ArduinoCore
+	url = https://github.com/red-sand-robot/I2CDev-ArduinoCore
+	branch = main
+[submodule "libraries/ISM330DHCX"]
+	path = libraries/ISM330DHCX
+	url = https://github.com/red-sand-robot/ISM330DHCX
+	branch = main
+[submodule "libraries/Wire"]
+	path = libraries/Wire
+	url = https://github.com/PaulStoffregen/Wire
+	branch = master
+[submodule "libraries/i2c_t3"]
+	path = libraries/i2c_t3
+	url = https://github.com/nox771/i2c_t3
+	branch = master
